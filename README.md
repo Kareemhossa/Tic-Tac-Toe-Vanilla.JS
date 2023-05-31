@@ -1,1 +1,1 @@
-# Tic-Tac-Toe-witt-Vanilla-JS
+# Tic-Tac-Toe-By-Vanilla-JS
